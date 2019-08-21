@@ -3,6 +3,6 @@
 **Let's see how it looks** 
 
 
-Here I present e link to my [first folder](https://github.com/edisousa/testRepo/tree/master/main)
+ - Here I present a link to my [first folder](https://github.com/edisousa/testRepo/tree/master/main)
 
-And here I present e link to my [first file](https://github.com/edisousa/testRepo/tree/master/main/tmp.txt)
+ - And here I present a link to my [first file](https://github.com/edisousa/testRepo/tree/master/main/tmp.txt)
