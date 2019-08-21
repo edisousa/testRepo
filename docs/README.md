@@ -1,3 +1,3 @@
 # this is a simple test for gitpages
 
-**Lets see how it looks** 
+**Let's see how it looks** 
